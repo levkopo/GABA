@@ -335,7 +335,8 @@ def main():
     if settings["hide_after_start"]:
         main_window.after(0, hide_window())
 
-    main_window.iconbitmap("logo.ico")
+    # TODO
+    # main_window.iconbitmap("logo.ico")
     main_window.mainloop()
 
 
