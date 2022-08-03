@@ -10,7 +10,7 @@ greenlet==1.1.2
 imageio==2.21.0
 imageio-ffmpeg==0.4.7
 keyboard==0.13.5
-numpy==1.23.1S
+numpy==1.23.1
 pefile==2022.5.30
 Pillow==9.2.0
 progress==1.6
